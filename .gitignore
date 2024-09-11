@@ -1,0 +1,6 @@
+# Ignore all Azurite and storage files, regardless of extension
+__azurite_db_blob__
+__azurite_db_queue__
+__azurite_db_table__
+__blobstorage__
+__queuestorage__
